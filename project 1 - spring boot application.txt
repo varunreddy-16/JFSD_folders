@@ -1,0 +1,33 @@
+project 1 - spring boot application 
+
+dao  - insert , retrieveall, finduser, deleteuser, updateuser, paging , login
+
+react side (frontend) 
+
+
+project 2 - java application using hcl queries (spring hibernate)
+
+app.java - insert,retrieve , update , delete (crud )
+hibernate.cfg.xml
+
+project 3 - java spring mvc project - add and view details of 
+
+students 
+-> frontend using jsp pages 
+
+project 4 - spring boot using microservices 
+
+client side - one and 3 (microservices files)
+server side - one file 
+
+first run server , then run all the clients 
+
+project 5- java application for jwt authentication 
+
+
+project 6 - spring project using hcql queries (eclipse)
+
+app.java--insert , update , delete , create 
+
+
+project 7 - spring dependency injections (eclipse)
